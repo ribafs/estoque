@@ -1,0 +1,21 @@
+.topo{
+    padding-top:5px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:30px;
+    background-color:#E9ECEF;
+    font-size:12px;
+    text-align:center;
+}
+
+.header{
+    text-align:center;
+    background-color:#8ad3f7;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
