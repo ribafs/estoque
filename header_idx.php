@@ -16,5 +16,5 @@
 <br/>
 <div class="container">
     <div class="panel panel-default">
-        <div class="jumbotron text-center"><h1><strong>Estoque Simplificado em PHP</strong></h1></div>
-
+        <div class="jumbotron text-center"><h1>Estoque Simplificado em PHP</h1></div>
+    </div>

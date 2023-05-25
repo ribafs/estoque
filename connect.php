@@ -2,7 +2,7 @@
 $hostname = "localhost";
 $username = "root";
 $password = "root";
-$database = "estoque";
+$database = "testes";
 $row_limit = 8;
 $sgbd = 'mysql'; // mysql, pgsql
 
