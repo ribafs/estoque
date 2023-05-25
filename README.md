@@ -52,8 +52,12 @@ O preco de venda também precisa ser maior que o de compra. Idealmente estima-se
 
 ## Testando
 
-Pra simplificar as coisas cadastrei somente um único produto, banana, com estoque_minimo 10 e estoque máximo 100
+- Faça o download de https://github.com/ribafs/estoque
+- Descompacte em seu diretório web
+- Chame pelo anbvegador
+- http://localhost/estoque
 
+Pra simplificar as coisas cadastrei somente um único produto, banana, com estoque_minimo 10 e estoque máximo 100
 
 - Comprarei 50 bananas. Mas antes de comprar, preciso verificar o estoque_maximo de bananas, para garantir que não comprarei uma quantidade maior que o estoque máximo. Observe que a compra é feita pelo id do produto (produto_id, que é relacionado com produtos).
 
